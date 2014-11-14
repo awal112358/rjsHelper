@@ -1,0 +1,11 @@
+{
+  "name": "rjsHelper",
+  "version": "0.1.0",
+  "description": "Small utility to help with creating requireJS main files",
+  "main": "rjsHelper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Walker <awal112358@gmail.com>",
+  "license": "ISC"
+}
