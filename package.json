@@ -1,6 +1,6 @@
 {
   "name": "rjs-helper",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Small utility to help with creating requireJS main files",
   "main": "rjsHelper.js",
   "scripts": {
