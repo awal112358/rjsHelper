@@ -64,7 +64,7 @@ module.exports = function(grunt, root) {
         var files = this._paths || this._generateFiles();
 
         for (var i=0; i<files.length; i++) {
-            this._pathMap[this._getHandle(files[i])] = files[i];
+            this._pathMap[this._getHandle(files[i])] = this._getHandle(files[i]);
         }
     };
 
